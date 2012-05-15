@@ -1,0 +1,45 @@
+<snippet>
+	<content><![CDATA[
+<!DOCTYPE html>
+<html lang="es">
+		<head>
+			<title></title>
+			
+			<meta charset="utf-8">
+			<meta name="author" content="Klinsmann">
+			<meta name="description" content="">
+			<link rel="stylesheet" type="text/css" href="css/estilos.css">
+			<script type="text/javascript" src="js/prefixfree.js"></script>
+			<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+			<style type="text/css">
+
+			</style>
+		</head>
+<body>
+	<div id="wrapper"
+		<header>cabecera</header>
+		<nav>navegacion</nav>
+		<aside>contenido tangencial</aside>
+		<section>
+			<article>Primer articulo</article>
+
+		</section>
+		<section>
+			<article>Segundo articulo</article>
+
+		</section>
+		<section>
+			<article>Tercer articulo</article>
+
+		</section>
+		<footer>Pie de pagina</footer>
+	</div>
+</body>
+</html> 
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<tabTrigger>html5simple</tabTrigger>
+</snippet>
